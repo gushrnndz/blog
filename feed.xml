@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>	<title>Zoner</title>
+	<description>This is where I write about blogging with Zoner!</description>
+	<link>https://zone-builder.neocities.org/</link>
+	<atom:link href="https://zone-builder.neocities.org/" rel="self"></atom:link>
+	<language>en</language>
+	<lastBuildDate>
+Mon, 14 Feb 2022 18:41:07 +0000
+</lastBuildDate>
+	<ttl>1440</ttl>
+
+	<item>
+		<title>Cartridge</title>
+		<description>test</description>
+		<link>https://zone-builder.neocities.org/posts/2022-02-14-cartridge.html</link>
+		<pubDate>
+			Mon, 14 Feb 2022 00:00:00 +0000
+		</pubDate>
+	</item>
+
+</channel>
+</rss>
